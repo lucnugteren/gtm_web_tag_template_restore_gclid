@@ -1,5 +1,5 @@
 homepage: 'https://lucnugteren.com/'
 documentation: 'https://github.com/lucnugteren/gtm_web_tag_template_restore_gclid'
 versions:
-  - sha: 37896617bb533e6f6d5cb1922c0ff8c5456decaf
+  - sha: f427ffa4747e45d86ca27e2474b931777d06b109
     changeNotes: Initial release.  
