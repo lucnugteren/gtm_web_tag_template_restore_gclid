@@ -16,10 +16,8 @@ ___INFO___
   "displayName": "Restore GCLID",
   "categories": [
     "ADVERTISING",
-    "ANALYTICS",
     "CONVERSIONS",
-    "MARKETING",
-    "REMARKETING"
+    "ATTRIBUTION"
   ],
   "brand": {
     "id": "github.com/lucnugteren/",
